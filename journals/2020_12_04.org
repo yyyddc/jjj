@@ -1,6 +1,6 @@
 #+TITLE: Dec 4th, 2020
 
-** LATER 写点什么呢？
+** NOW 写点什么呢？
 :PROPERTIES:
 :now: 1607069872596
 :done: 1607069877634
