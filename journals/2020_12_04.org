@@ -1,8 +1,4 @@
 #+TITLE: Dec 4th, 2020
 
-** NOW 写点什么呢？
-:PROPERTIES:
-:now: 1607069872596
-:done: 1607069877634
-:later: 1607069878437
-:END:
+** asdasdsa
+** DEADLINE: <2020-12-04 Fri>
